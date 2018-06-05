@@ -1,6 +1,6 @@
 {
     "visualizeJS": "http://localhost:8080/jasperserver-pro/client/visualize.js",
-    "jrsHostname": "http//localhost:8080/jasperserver-pro/flow.html",
+    "jrsHostname": "http://localhost:8080/jasperserver-pro/flow.html",
     "users": {
         "CaliforniaAdmin": {
             "password": "CaliforniaAdmin", 
